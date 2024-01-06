@@ -1,4 +1,6 @@
 # Sleep-Disorder-Detection
+![Screenshot (235)](https://github.com/bhushanbkt/Sleep-Disorder-Detection/assets/91175596/678c545e-5439-4ff9-87d3-3e826caefd69)
+
 
 # Sleep Disorder Detection Project
 
@@ -22,6 +24,7 @@ The classification model utilizes logistic regression. After training, it achiev
 - Scikit-learn for logistic regression
 - Streamlit for web application
 
+![Screenshot (236)](https://github.com/bhushanbkt/Sleep-Disorder-Detection/assets/91175596/f4d62e56-9ce8-47ca-a1e6-c3e44af6655f)
 
 ## Demo Video
 
