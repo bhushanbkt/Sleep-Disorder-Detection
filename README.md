@@ -22,6 +22,11 @@ The classification model utilizes logistic regression. After training, it achiev
 - Scikit-learn for logistic regression
 - Streamlit for web application
 
+
+## Demo Video
+
+Watch a demo of the project [here](https://www.loom.com/share/b259e644bc574d63b8afc35cf0a86bcf?sid=a50b04e5-7d0f-481b-8e78-72027c6f8c7c).
+
 ## Getting Started
 
 To run the Streamlit app locally:
